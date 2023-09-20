@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239345947544",
+    "firebase_url": "https://mega-398cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mega-398cd",
+    "storage_bucket": "mega-398cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239345947544:android:efdc06b338b345464f51ed",
+        "android_client_info": {
+          "package_name": "com.example.mega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239345947544-4k14rjsn8n441g426p23nnk8vfvvqrm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvvUZZoiwYxqj84KkcZQQ02ZIqmK5_xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239345947544-4k14rjsn8n441g426p23nnk8vfvvqrm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
