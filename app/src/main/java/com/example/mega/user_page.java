@@ -46,7 +46,7 @@ public class user_page extends AppCompatActivity {
         window.setStatusBarColor(colorCodeDark);
         try
         {
-            Objects.requireNonNull(this.getSupportActionBar()).setTitle("Garbage Tracking System");
+            Objects.requireNonNull(this.getSupportActionBar()).setTitle("Bus Tracking System");
         }
         catch (NullPointerException e){
             Toast.makeText(getApplicationContext(),"Null Pointer Exception occurred",Toast.LENGTH_SHORT).show();
@@ -77,12 +77,6 @@ public class user_page extends AppCompatActivity {
                         replaceFragment(new taskFragment());
                         drawerLayout.closeDrawers();
                        //pgbar.setVisibility(ProgressBar.INVISIBLE);
-                        break;
-                    }
-                    case R.id.status: {
-                        //Toast.makeText(user_page.this, "Status selected", Toast.LENGTH_SHORT).show();
-                        replaceFragment(new statusFragment());
-                        drawerLayout.closeDrawers();
                         break;
                     }
                     case R.id.attendance: {

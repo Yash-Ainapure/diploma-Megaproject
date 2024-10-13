@@ -12,11 +12,6 @@
             android:title="Task"
             tools:ignore="HardcodedText">
         </item>
-        <item android:id="@+id/status"
-            android:icon="@drawable/baseline_delete_sweep_24"
-            android:title="Status"
-            tools:ignore="HardcodedText">
-        </item>
         <item android:id="@+id/attendance"
             android:icon="@drawable/baseline_calendar_month_24"
             android:title="Attendance"

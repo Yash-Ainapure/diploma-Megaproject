@@ -94,7 +94,7 @@ public class profileFragment extends Fragment {
             t3.append(" 28");
         }
         else {
-            t2.append(" Garbage Collector");
+            t2.append("Bus Driver");
             t3.append(" 26");
         }
 
